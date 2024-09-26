@@ -1,4 +1,10 @@
 <resources>
+	<appfilter>
+
+	<!-- How We Feel -->
+	<item component="ComponentInfo{org.howwefeel.moodmeter/org.howwefeel.moodmeter.screens.main.MainActivity}" drawable="how_we_feel"/>
+
+</appfilter>
 	<!-- Android Makers -->
 	<item component="ComponentInfo{info.metadude.android.androidmakers.schedule/nerd.tuxmobil.fahrplan.congress.schedule.MainActivity}" drawable="android_makers"/>
 
